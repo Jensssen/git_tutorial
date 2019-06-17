@@ -3,3 +3,4 @@ Zombie:
 2 cl Cointreau
 4 cl Rum (weiss)
 4 cl Rum (dunkel)
+6 cl Rum (hochprozentig)
