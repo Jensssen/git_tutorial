@@ -4,4 +4,4 @@ Zombie:
 4 cl Rum (weiss)
 4 cl Rum (dunkel)
 2 cl Rum (hochprozentig)
-2 cl Grenadine
+4 cl Grenadine
