@@ -5,3 +5,4 @@ Zombie:
 4 cl Rum (dunkel)
 2 cl Rum (hochprozentig)
 4 cl Grenadine
+2 cl Rum
